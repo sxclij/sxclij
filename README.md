@@ -3,7 +3,6 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxclij&theme=tokyonight)](https://github.com/sxclij)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxclij&theme=tokyonight)](https://github.com/sxclij)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sxclij&theme=tokyonight)](https://github.com/sxclij)
 
 ---
 
@@ -14,6 +13,6 @@
 ---
 
 ## Let's Connect
-- **Portfolio:** [My Website](https://sxclij.com)
+- **Portfolio:** [sxclij.com](https://sxclij.com)
 - **Twitter:** [@sxclij](https://twitter.com/sxclij)
 - **Email:** [sxclij@gmail.com](mailto:sxclij@gmail.com)
