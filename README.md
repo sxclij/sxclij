@@ -10,7 +10,7 @@
 
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,js,python,docker," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,js,python,arch,docker,bots,discordjs,linux" />
 <br>
 
 
