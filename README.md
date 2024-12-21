@@ -1,12 +1,7 @@
-## GitHub Summary
+## Status
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxclij&theme=tokyonight)](https://github.com/sxclij)
-
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxclij&theme=tokyonight)](https://github.com/sxclij)
-
----
-
-## Contributions
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sxclij&theme=tokyonight)](https://github.com/sxclij)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sxclij&theme=tokyonight&utcOffset=8)](https://github.com/sxclij)
 
